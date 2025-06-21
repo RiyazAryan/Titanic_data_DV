@@ -37,6 +37,3 @@ This project explores the famous **Titanic dataset** using Python libraries like
 ## ✅ Next Steps
 - Use insights from this EDA to build a **classification model** (e.g., Logistic Regression) in Week 2.
 
----
-
-> 🎓 Part of a structured 8-week Machine Learning roadmap for internship preparation.
